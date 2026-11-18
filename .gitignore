@@ -33,6 +33,7 @@ main
 *.so.*
 *.dylib
 *.dll
+*.exe
 *.out
 *.pdb
 *.ilk
