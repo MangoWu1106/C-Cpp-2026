@@ -1,5 +1,7 @@
 ## 实验题目：五子棋AI
 
+运行、编译和生成 dist 的步骤见 [五子棋使用与构建说明](README.zh-CN.md)。
+
 ## GUI
 - [raylib](https://github.com/raysan5/raylib)
 - [EasyX](https://easyx.cn/)
